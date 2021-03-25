@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **camilacarrasco208@gmail.com**
 
-- ⚡ Facts **A few months ago, I couldn't even write 'hello world' in Python. In University I only learned to use Excel and basic MATLAB. Everything that is seen here, I learned it by myself in the last 6 months, at my own pace. So if you need me to learn a new technology, I will glad do it!**
+- ⚡ Facts **A few months ago, I couldn't even write "hello world" in Python. In University I only learned how to use Excel and basic MATLAB. I was focused on becoming a metallurgical engineer, but in my last year of study I found out that I hadn't health compatible with mining operations. So I decided to learn to code. Everything you see here, I learned it by myself in the last 6 months, at my own pace. So if you need me to learn a new technology, I will gladly do it!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
