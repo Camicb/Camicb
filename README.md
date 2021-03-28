@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camicb&label=Profile%20views&color=0e75b6&style=flat" alt="camicb" /> </p>
 
-- 🔭 I’m currently working on [personal projects, like this one](https://github.com/Camicb/Bank-marketing)
+- 🔭 I’m currently working on personal projects, like this [one](https://github.com/Camicb/Copper-Forecasting)
 
 - 🌱 I’m interested on learning **Advanced SQL, Spark, Docker, Kubernetes, ETL tools**
 
