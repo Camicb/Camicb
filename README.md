@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Camila Carrasco Belmar</h1>
-<h3 align="center">I'm a metallurgical engineer, learning Data Science and Machine learning on my own</h3>
+<h3 align="center">I'm a civil metallurgical engineer, learning Data Science and Machine learning on my own</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camicb&label=Profile%20views&color=0e75b6&style=flat" alt="camicb" /> </p>
 
