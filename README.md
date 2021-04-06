@@ -7,7 +7,7 @@
 
 - 🌱 I’m interested on learning **Advanced SQL, Spark, Docker, Kubernetes, ETL tools**
 
-- 💬 Ask me about **Python, Pycaret, Scikit-learn, Tensorflow 2, SQL (PostgreSQL, BigQuery), GCP, Power BI, Tableau, Data Studio**
+- 💬 Ask me about **Python, Pycaret, Scikit-learn, Tensorflow 2, SQL, GCP, Power BI, Tableau, Data Studio**
 
 - 📫 How to reach me **camilacarrasco208@gmail.com or https://www.linkedin.com/in/camilacb**
 
