@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camicb&label=Profile%20views&color=0e75b6&style=flat" alt="camicb" /> </p>
 
-- 🔭 I’m currently working on personal projects that support my learning. Some of them can be found [here](https://github.com/Camicb/Portafolio/blob/main/README.md)
+- 🔭 I'm currently working as a Data Scientist in a startup that seeks to optimize the energy consumption of water treatment plants, by using artificial intelligence to simulate the productive processes.
 
-- 🌱 I’m interested on learning **Advanced SQL, Spark, Docker, Kubernetes, ETL tools**
+- 🌱 I’m interested on learning **Advanced SQL, Spark, Docker, Kubernetes, Airflow, Pytorch**
 
 - 💬 Ask me about **Python, Pycaret, Scikit-learn, Tensorflow 2, SQL, GCP, Power BI, Tableau, Data Studio**
 
